@@ -1,2 +1,3 @@
-var a = 10;
-console.log( a );
+var a = 100;
+var b = 200
+console.log( a + b );
